@@ -21,8 +21,8 @@ Cada writeup segue a mesma estrutura, definida em [template-writeup.md](template
 - **Cabeçalho**: programa, severidade, CWE, datas do report e da correção.
 - **Resumo**: componente, falha e impacto em poucas frases.
 - **Contexto**: o que o sistema deveria fazer.
-- **Comportamento observado** e **como cheguei lá**.
-- **Impacto real** e **correção** aplicada.
+- **A falha** e **como cheguei lá**.
+- **Impacto**, **correção** e **linha do tempo**.
 
 Os textos não incluem detalhes operacionais que permitam atacar instalações ainda não atualizadas.
 
